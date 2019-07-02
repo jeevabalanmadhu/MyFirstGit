@@ -1,3 +1,23 @@
 
 Public APIs: https://github.com/public-apis/public-apis
 https://pokeapi.co/api/v2/pokemon/ditto/
+
+
+https://developers.zomato.com/api
+APIKey= 9c0dd6627fb3bf3f8c6fc9c592e06098
+Header:
+user-key -9c0dd6627fb3bf3f8c6fc9c592e06098
+
+-------------------------
+http://maps.openweathermap.org/maps/2.0/weather/
+APIKey= 693ab171735ffab05ab33a6371917f82
+
+Header:
+user-key = 693ab171735ffab05ab33a6371917f82
+
+Parameter:
+q="Chennai"
+--------------------------
+
+SOAP - 
+http://webservices.amazon.com/AWSECommerceService/AWSECommerceService.wsdl
